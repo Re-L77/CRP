@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 # Nombre de proyecto
 PARAM=$1
